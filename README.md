@@ -1,4 +1,4 @@
-Este repositorio contiene un ejemplo de como generar un portafolio para la clase de Estructura de datos. <h1>
+<h1>Este repositorio contiene un ejemplo de como generar un portafolio para la clase de Estructura de datos.</h1> 
 
 - Repositorio\\ayudantiaArquitectura__
    - [README.md](README.md)
