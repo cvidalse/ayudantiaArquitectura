@@ -43,14 +43,11 @@ Requisitos
 
 9 - Generar un arbol de directorios 
   - Hacerlo manualmente utilizando markdown
-  - Hacerlo con la javascrip 
-     - instalar con npm install md-file-tree -g 
-     - Usar md-file-tree . > README.md
 
 10 - Markdown de readme.md
 	 - Utiliza denotacion similar a html para titulos y saltos de linea 
 	 - Para incluir link [titulo del link](link)
 	 - Para incluir imagenes ![GitHub Logo](/images/logo.png)
 	                          Format: ![Alt Text](url)
-	 
+
  
