@@ -8,7 +8,7 @@
      - [primer trabajo](Semana 1/primer%20trabajo)
      
 Links a las tareas <br>
-[primer trabajo](https://github.com/cvidalse/ayudantiaArquitectura/blob/master/Semana%201/primer%20trabajo)
+[Primer trabajo](https://github.com/cvidalse/ayudantiaArquitectura/blob/master/Semana%201/primer%20trabajo) <br>
 [Tarea 1](https://github.com/cvidalse/ayudantiaArquitectura/blob/master/Semana%201/Tarea%201/cosa.txt)
 
      
