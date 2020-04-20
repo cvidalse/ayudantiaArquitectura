@@ -1,1 +1,56 @@
 Cosas que deberias saber para crear un portafolio en github
+Requisitos 
+  - instalar git
+  - configurar las especificaciones de usuario 
+    git config --global user.name "nombre_usuario"
+	git config --global user.email "email_usuario"
+
+
+1- Crear un repositorio desde github
+
+2- git clone https://github.com/cvidalse/ayudantiaArquitectura.git
+
+3- git WorkFlow 
+	git add . 
+
+	git commit -m ""
+
+	git pull 
+
+	git push 
+
+4 - Eliminar archivos 
+	4.1.1 Eliminar localmente archivos 
+	4.1.2 Eliminar desde la consola
+		git rm miarchivo.java un archivo
+		git rm -r midirectorio eliminar un directorio
+	4.2 git commit -m 
+	4.3 git push 
+
+5 - Volver a un commit anterior: git checkout id_commit
+   	 -Para obtener la id del commit usar git log --oneline
+
+6 - Crear una nueva rama 
+	- Desde github 
+	- Desde consola 
+		git branch nueva_rama
+		git checkout nueva_rama para acceder a ella
+7 - Mezclar ramas 
+	- git merge nueva_rama (desde la rama que quieres que se mezcle)
+
+8 - Eliminar un rama local y remoto
+	- git push origin --delete nueva_rama
+
+9 - Generar un arbol de directorios 
+  - Hacerlo manualmente utilizando markdown
+  - Hacerlo con la javascrip 
+     - instalar con npm install md-file-tree -g 
+     - Usar md-file-tree . > README.md
+
+10 - Markdown de readme.md
+	 - Utiliza denotacion similar a html para titulos y saltos de linea 
+	 - Para incluir link [titulo del link](link)
+	 - Para incluir imagenes ![GitHub Logo](/images/logo.png)
+	                          Format: ![Alt Text](url)
+	 
+ 
