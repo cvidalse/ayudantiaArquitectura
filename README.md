@@ -1,4 +1,4 @@
-- __C:\\Users\\criz\_\\Desktop\\Ayudantia\\Repositorio\\ayudantiaArquitectura__
+- Repositorio\\ayudantiaArquitectura__
    - [README.md](README.md)
    - __Semana 1__
      - __Tarea 1__
